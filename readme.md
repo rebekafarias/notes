@@ -1,6 +1,4 @@
-# Notes
-
-## Introduction
+## Notes
 A simple PHP web application where users can save their notes.
 
 ## How to Use
